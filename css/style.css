@@ -7,3 +7,7 @@ h5 {
     font-weight: bold;
     color: aquamarine;
 }
+
+span {
+    display: block;
+}
